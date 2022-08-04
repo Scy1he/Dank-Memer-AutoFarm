@@ -1,4 +1,0 @@
-1)run the dank.py file 
-2)click on ur message bar 
-3) the script will run 
-4) once done , close the python terminal.
